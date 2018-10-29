@@ -1,0 +1,23 @@
+{
+  "name": "jscounter",
+  "version": "1.0.0",
+  "description": "Javascript browser library to count time between present and a target date",
+  "main": "counter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agm-dev/counterjs.git"
+  },
+  "keywords": [
+    "counter",
+    "countdown"
+  ],
+  "author": "Adrián Gonzalo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/agm-dev/counterjs/issues"
+  },
+  "homepage": "https://github.com/agm-dev/counterjs#readme"
+}

@@ -15,7 +15,7 @@ As simle as this:
 <body>
   <!-- content -->
 
-  <script type="text/javascript" src="path/to/counter.js"></script>
+  <script type="text/javascript" src="https://unpkg.com/jscounter"></script>
 
   <script>
 
@@ -37,6 +37,8 @@ As simle as this:
 </body>
 </html>
 ```
+
+You can clone this repo, use `npm install jscounter` or just include as source `https://unpkg.com/jscounter`
 
 ## Methods
 
